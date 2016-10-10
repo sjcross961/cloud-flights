@@ -7,6 +7,8 @@ import com.amazonaws.services.dynamodbv2.document.DynamoDB;
 import com.amazonaws.services.dynamodbv2.document.Table;
 
 /**
+ * Class to handle access to AWS DynamoDB
+ *
  * @author Sam Cross u188166
  */
 public final class FlightHandler {

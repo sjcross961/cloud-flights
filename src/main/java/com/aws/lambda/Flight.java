@@ -7,6 +7,9 @@ package com.aws.lambda;
  */
 public class Flight {
 
+    /**
+     Sammy's cheat constructor
+    */
     public Flight(String flightNumber, String arrLocation, String depLocation) {
         this.flightNumber = flightNumber;
         this.depLocation = depLocation;

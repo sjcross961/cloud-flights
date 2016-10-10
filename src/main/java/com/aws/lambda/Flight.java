@@ -1,6 +1,8 @@
 package com.aws.lambda;
 
 /**
+ * Flight object
+ *
  * @author Sam Cross u188166
  */
 public class Flight {

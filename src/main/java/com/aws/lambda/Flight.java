@@ -4,6 +4,7 @@ package com.aws.lambda;
  * Flight object
  *
  * @author Sam Cross u188166
+ * @author Anders Clausen
  */
 public class Flight {
 
